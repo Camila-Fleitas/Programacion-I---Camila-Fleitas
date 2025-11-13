@@ -1,0 +1,17 @@
+[
+  {
+    "fecha": "2025-10-01",
+    "estado": "😊",
+    "descripcion": "Hoy practiqué ejercicios de programación y entendí mejor las funciones."
+  },
+  {
+    "fecha": "2025-10-15",
+    "estado": "😐",
+    "descripcion": "Revisé teoría sobre bases de datos. Necesito más práctica con SQL."
+  },
+  {
+    "fecha": "2025-11-12",
+    "estado": "😊",
+    "descripcion": "Hoy aprendí a usar Tkinter y logré que mi aplicación funcione."
+  }
+]
